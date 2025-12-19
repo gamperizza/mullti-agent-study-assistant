@@ -4,7 +4,7 @@ Design and implementation of a multi-agent system using LangChain, LangGraph, an
 
 ## Project Overview
 
-StudyCoder Assistant is an intelligent educational assistant designed for programming students.  
+Study Assistant is an intelligent educational assistant designed for programming students.  
 The system consists of **5 specialized agents** working together:
 
 - **Router Agent** — classifies user queries into categories (theory, code, planning, general)
@@ -28,8 +28,8 @@ It includes session memory, 3 custom tools with tool calling, and detailed execu
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/studycoder-assistant.git
-cd studycoder-assistant
+git clone https://github.com/yourusername/mullti-agent-study-assistant.git
+cd mullti-agent-study-assistant
 ```
 
 2. Create and activate a virtual environment:
@@ -78,7 +78,7 @@ mullti-agent-study-assistant/
 ├── docs/                   # Documentation
 │   ├── ARCHITECTURE.md     # Architecture description + Mermaid diagram
 ├── requirements.txt        # Python dependencies
-└── task4_reflection        # Detailes analysis of the project
+└── task4_reflection        # Detailed analysis of the project
 ├── run_demo.py             # Quick interactive demo entry point
 └── README.md               # This file
 ```
