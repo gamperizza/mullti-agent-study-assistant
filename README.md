@@ -75,12 +75,10 @@ mullti-agent-study-assistant/
 │   ├── agents.py           # Multi-agent system and LangGraph workflow
 │   ├── utils.py            # Interactive demo utilities
 │   └── main.py             # Full lab execution and testing
-├── notebooks/              # Jupyter notebooks
-│   └── report.ipynb        # Detailed report with results and analysis
 ├── docs/                   # Documentation
 │   ├── ARCHITECTURE.md     # Architecture description + Mermaid diagram
-│   └── architecture_diagram.mmd
 ├── requirements.txt        # Python dependencies
+└── task4_reflection        # Detailes analysis of the project
 ├── run_demo.py             # Quick interactive demo entry point
 └── README.md               # This file
 ```
